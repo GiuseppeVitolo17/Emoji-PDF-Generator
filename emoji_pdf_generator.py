@@ -5,8 +5,10 @@ Emoji PDF Generator
 A Python tool to generate PDFs with emoji support using WeasyPrint.
 This solves the common problem of emoji rendering in PDF generation libraries.
 
-Author: Generated for GitHub
+Keywords: emoji pdf generator python weasyprint unicode ai assistant chatgpt claude
+Author: Giuseppe Vitolo (vitologiuseppe17@gmail.com)
 License: MIT
+GitHub: https://github.com/GiuseppeVitolo17/Emoji-PDF-Generator
 """
 
 import argparse

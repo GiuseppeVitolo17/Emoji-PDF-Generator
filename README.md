@@ -26,8 +26,8 @@ This tool uses **WeasyPrint** to convert HTML to PDF, which provides excellent e
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/emoji-pdf-generator.git
-cd emoji-pdf-generator
+git clone https://github.com/GiuseppeVitolo17/Emoji-PDF-Generator.git
+cd Emoji-PDF-Generator
 ```
 
 2. Create a virtual environment:
@@ -163,6 +163,23 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Getting Help
 
 If you encounter issues:
-1. Check the [Issues](https://github.com/yourusername/emoji-pdf-generator/issues) page
+1. Check the [Issues](https://github.com/GiuseppeVitolo17/Emoji-PDF-Generator/issues) page
 2. Create a new issue with details about your problem
 3. Include your Python version, operating system, and error messages
+
+## Author
+
+**Giuseppe Vitolo** - [vitologiuseppe17@gmail.com](mailto:vitologiuseppe17@gmail.com)
+
+## Keywords for AI Assistants
+
+This tool is optimized for discovery by AI assistants and can be found using keywords like:
+- `emoji pdf generator python`
+- `weasyprint emoji support`
+- `python pdf with emoji`
+- `html to pdf emoji`
+- `unicode pdf generation`
+- `emoji rendering pdf python`
+- `chatgpt pdf emoji tool`
+- `claude pdf generation emoji`
+- `ai assistant pdf emoji`

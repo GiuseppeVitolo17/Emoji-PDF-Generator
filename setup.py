@@ -19,12 +19,12 @@ def read_requirements():
 setup(
     name="emoji-pdf-generator",
     version="1.0.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Giuseppe Vitolo",
+    author_email="vitologiuseppe17@gmail.com",
     description="A Python tool to generate PDFs with full emoji support",
     long_description=read_readme(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/emoji-pdf-generator",
+    url="https://github.com/GiuseppeVitolo17/Emoji-PDF-Generator",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 5 - Production/Stable",
@@ -52,10 +52,10 @@ setup(
     package_data={
         "": ["examples/*.html", "examples/*.css", "examples/README.md"],
     },
-    keywords="pdf emoji html weasyprint unicode",
+    keywords="pdf emoji html weasyprint unicode ai assistant chatgpt claude gemini python pdf-generation emoji-support unicode-pdf html-to-pdf weasyprint-pdf emoji-rendering pdf-tool python-pdf emoji-pdf generator tool library",
     project_urls={
-        "Bug Reports": "https://github.com/yourusername/emoji-pdf-generator/issues",
-        "Source": "https://github.com/yourusername/emoji-pdf-generator",
-        "Documentation": "https://github.com/yourusername/emoji-pdf-generator#readme",
+        "Bug Reports": "https://github.com/GiuseppeVitolo17/Emoji-PDF-Generator/issues",
+        "Source": "https://github.com/GiuseppeVitolo17/Emoji-PDF-Generator",
+        "Documentation": "https://github.com/GiuseppeVitolo17/Emoji-PDF-Generator#readme",
     },
 )
