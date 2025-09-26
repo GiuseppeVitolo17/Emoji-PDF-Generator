@@ -1,0 +1,13 @@
+# Emoji PDF Generator Dependencies
+# Core library for HTML to PDF conversion with emoji support
+weasyprint>=66.0
+
+# Additional dependencies (automatically installed with weasyprint)
+# - pydyf>=0.11.0
+# - cffi>=0.6
+# - tinyhtml5>=2.0.0b1
+# - tinycss2>=1.4.0
+# - cssselect2>=0.8.0
+# - Pyphen>=0.9.1
+# - Pillow>=9.1.0
+# - fonttools>=4.0.0
